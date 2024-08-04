@@ -1,4 +1,3 @@
-Manimaze Navigator
 Manimaze Navigator is a comprehensive expense tracker web application designed to help users manage their finances effectively.
 Built with a robust front-end using JavaScript, HTML, and CSS, and a reliable back-end powered by MySQL, Manimaze Navigator offers a seamless and user-friendly experience.
 Features User Registration & Login: Secure authentication system for users to create accounts and log in.
